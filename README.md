@@ -36,4 +36,4 @@ Survival Arena is a browser-based survival game where the player controls a blue
 [https://ilovecoding276.github.io/survival-arena/](https://ilovecoding276.github.io/survival-arena/)
 
 ## Repository
-Paste your GitHub repository link here
+[Paste your GitHub repository link here](https://github.com/ilovecoding276/survival-arena)
